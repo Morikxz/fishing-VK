@@ -1,3 +1,4 @@
+unzip fisher.zip
 cp fish /data/data/com.termux/files/usr/bin
 cd /data/data/com.termux/files/usr/bin
 chmod 777 fish
